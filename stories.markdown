@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Stories"
-permalink: /Stories/
+permalink: /stories/
 order: 5
 ---
 
