@@ -5,7 +5,7 @@ permalink: /people/
 order: 3
 ---
 
-### Management
+### Coordination
 
 <table style="border: none; background: none; ">
  	<tr style="border: none; background: none;">		
@@ -29,6 +29,24 @@ order: 3
 <table style="border: none; background: none; ">
  	<tr style="border: none; background: none;">		
  		<td style="border: none; background: none; width: 33%;">
+ 			Arezoo Sarvi<br/>
+			<img src="https://ssc.io/img/arezoo.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>	
+ 		</td> 	
+ 		<td style="border: none; background: none; width: 33%;">
+			<a href="https://bkersbergen.github.io" target="_blank">Barrie Kersbergen</a><br/>
+			<img src="https://ssc.io/img/barrie.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>	
+		</td>		
+	        <td style="border: none; background: none; width: 33%;">
+ 			Mariya Hendriksen<br/>
+ 			<img src="https://ssc.io/img/mariya.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>	
+ 		</td> 	 			
+ 	</tr>
+ 	<tr>	
+	        <td style="border: none; background: none; width: 33%;">
+ 			Ming Li<br/>
+ 			<img src="" style="height:120px; padding-top: 5px; padding-bottom: 5px;"/>	
+ 		</td> 		
+		<td style="border: none; background: none; width: 33%;">
  			Mozhdeh Ariannezhad<br/>
  			<img src="https://ssc.io/img/mozdeh.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>		
  		</td>
@@ -36,33 +54,16 @@ order: 3
  			Olivier Sprangers<br/>
  			<img src="https://ssc.io/img/olivier.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>		
  		</td>
- 		<td style="border: none; background: none; width: 33%;">
- 			Arezoo Sarvi<br/>
- 			<img src="https://ssc.io/img/arezoo.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>	
- 		</td> 		
- 	</tr>
- 	<tr>	
-        <td style="border: none; background: none; width: 33%;">
+ 	</tr>		
+ 	<tr>			
+	        <td style="border: none; background: none; width: 33%;">
  			Sami Jullien<br/>
  			<img src="https://ssc.io/img/sami.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>	
  		</td> 		
-        <td style="border: none; background: none; width: 33%;">
- 			Mariya Hendriksen<br/>
- 			<img src="https://ssc.io/img/mariya.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>	
- 		</td> 	 		
- 		<td style="border: none; background: none; width: 33%;"><a href="https://bkersbergen.github.io" target="_blank">Barrie Kersbergen</a><br/>
-		<img src="https://ssc.io/img/barrie.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>	
-		</td>	
- 	</tr>		
- 	<tr>	
  		<td style="border: none; background: none; width: 33%;">
 			<a href="https://stefan-grafberger.com" target="_blank">Stefan Grafberger</a><br/>
 			<img src="https://ssc.io/img/stefan.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>			
 		</td> 		
-        <td style="border: none; background: none; width: 33%;">
- 			Ming Li<br/>
- 			<img src="" style="height:120px; padding-top: 5px; padding-bottom: 5px;"/>	
- 		</td> 
  		<td style="border: none; background: none; width: 33%;">			
  		</td> 			 		
  	</tr>	 	
@@ -75,7 +76,7 @@ order: 3
  	<tr style="border: none; background: none;">		
  		<td style="border: none; background: none; width: 33%;">
 			<a href="https://nl.linkedin.com/in/shubhaguha" target="_blank">Shubha Guha</a><br/>	
-		<img src="https://ssc.io/img/shubha.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>
+			<img src="https://ssc.io/img/shubha.jpg" style="padding-top: 5px; padding-bottom: 5px;"/>
  		</td>
  		<td style="border: none; background: none; width: 33%;">
  		</td>
