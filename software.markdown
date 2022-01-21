@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Open Source"
-permalink: /open-source/
+title: "Software"
+permalink: /software/
 order: 5
 ---
 
